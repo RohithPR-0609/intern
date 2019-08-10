@@ -1,0 +1,55 @@
+.pay{
+	width: 300px;
+	height: 150px;
+	border-radius: 12px;
+	border: 2px ridge #fcb4a4;
+	margin-top: 25px;
+	background-color: #fcb4a4;
+
+}
+.pay h2{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+
+.invoice{
+	margin: auto;
+	margin-top: 20px;
+	width: 600px;
+	border:2px solid black;
+	padding: 5px 5px 5px 5px; 
+	border-radius: 12px;
+	font-family: cursive;
+	font-weight: bolder;
+	background-image: url('../image/tick.jpg');
+	opacity: 0.6;
+}
+
+.id{
+	float:left;
+	margin-left: 130px;
+	width: 220px;
+}
+
+.class{
+	float: left;
+width: 230px;
+
+}
+ 
+.id span{
+	margin-left: 40px;
+}
+.final{
+	width: 300px;
+}
+.qr{
+	float: right;
+	margin-left: 0;
+	margin-top: -125px;
+}
+.qr img{
+	height: 100px;
+	width: 150px;
+}

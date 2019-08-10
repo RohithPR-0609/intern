@@ -1,0 +1,98 @@
+body {
+	width: 100%;
+
+}
+
+.sport img {
+width: 250px;
+height: 200px;
+}
+
+.sport h2{
+	font-weight: bolder;
+	font-size: 25px;
+	margin-top: 30px;
+	margin-left: 30px;
+	font-family: Arial;
+
+
+}
+.sport img{
+	float: right;
+	margin-right: 30px;
+	margin-top: 0px
+
+
+}
+.sport-para p{
+	font-family:  cursive;
+	font-size: 20px;
+	margin-left: 30px;
+	width: 80%;
+	font-weight: normal;
+}
+.select-style{
+	margin-left: 60px;
+	border:2px solid;
+	width: 180px;
+	height: 30px;
+	border-radius: 3px;
+	overflow: hidden;
+	background: #fafafa;
+	border-color: #eab7b4;
+
+}
+.select-style select{
+	padding: 10px 8px;
+	width:130%;
+	border: none;
+	box-shadow: none;
+	background:transparent;
+	background-image: none;
+	-webkit-appearance:none;
+}
+.sport-select select:focus{
+	outline: none;
+}
+
+.line{
+	font-weight: bold;
+	font-family: cursive;
+	color: red;
+	margin-left: 90px;
+}
+
+.check-box{
+
+	width: auto;
+	height: auto;
+	background: white;
+	margin-left: 30px;
+}
+
+.sport-submit input{
+	width:100px;
+	height: 50px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 10px;
+	background:#B9DFFF;
+	color: tomato;
+	border:1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+	margin-bottom: 50px;
+
+}
+
+.sport-submit input:hover{
+	background:#016ABC;
+	color: #fff;
+	border:1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+
+}
+
